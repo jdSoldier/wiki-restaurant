@@ -29,9 +29,13 @@ sandwich (foto sandwich furai)
 / (palabras de bienvenida)
 barralibre (detalle de la barra libre)
 
-## Secuencia de la Atención por WhatsApp
+## Estructura de la atención por WhatsApp
+Recepción y envió de Carta
+Responder consultas
 
 
+
+## 💬 Modelo para la Toma de pedido por WhatsApp
 
 
 <div class="contenedo_msj">
@@ -55,12 +59,13 @@ barralibre (detalle de la barra libre)
     </div>
     <div class="cuerpo_msj">
       <div class="msj-texto">
-        Hola buenas noches 😀
+        Hola buenas noches 😊
       </div>
       <div class="msj-texto">
-	    FALTA IMAGEN DE CARTA  
+        <img src="https://raw.githubusercontent.com/jdSoldier/wikimagen/main/img/respuestacarta.png"
+          width= "200" height="200">
       </div>
-      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+	  <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>    
     </div>
   </div>
   <!-- mensaje izq -->
@@ -119,56 +124,166 @@ barralibre (detalle de la barra libre)
     </div>
     <div class="cuerpo_msj">
       <div class="msj-texto">
-	        Baby
-	        Ninjax2
-	        Nikkei tempurizado
-	        Lomo
-            Alitas:
-            Honey
+	        Baby<br>
+	        Ninjax2<br>
+	        Nikkei tempurizado<br>
+	        Lomo<br>
+            Alitas:<br>
+            Honey<br>
+            500ml de maracuya<br>
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje der -->
+  <div class="mensaje-der">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+	     FALTA IMAGEN DE LA UBICACION DEL CLIENTE
       </div>
       <div class="msj-texto">
-		        Que maki es ese 
+	     Para esta ubicación?
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje izq -->
+  <div class="mensaje-izq">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+	        Si la misma ubicación
       </div>
       <div class="msj-texto">
-		        Que sabor? 
+	        Cuanto seria todo
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje der -->
+  <div class="mensaje-der">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+	     su pedido sale 107 soles
+      </div>
+      <div class="msj-texto">
+	     FALTA IMAGEN DE LAS FORMAS DE PAGO
+      </div>
+      <div class="msj-texto">
+	     Cual será su forma de pago?
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje izq -->
+  <div class="mensaje-izq">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+	        efectivo
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje der -->
+  <div class="mensaje-der">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+	     efectivo exacto o le enviamos vuelto
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje izq -->
+  <div class="mensaje-izq">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+	        Vuelto para 120 soles
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje der -->
+  <div class="mensaje-der">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+	     El tiempo de espera <br>
+	     aproximado para recibir el <br>
+	     pedido es de una hora, le <br>
+	     avisamos cuando salga su <br>
+	     pedido 😊🧡
       </div>
       <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
     </div>
   </div>
 </div>
 
+![carta|100](https://raw.githubusercontent.com/jdSoldier/wikimagen/main/img/respuestacarta.png) 
 
 
+## ✋ Bienvenida y Envió de Carta
 
 
+<div class="contenedo_msj">
+  <!-- mensaje izq -->
+  <div class="mensaje-izq">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+        Hola qué tal, deseo hacer delivery <br>
+         por fa
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje der -->
+  <div class="mensaje-der">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+        Hola, buen día 🧡 gracias <br>
+        por comunicarte con DON <br>
+        MAKI 🍣🥢. Si es la <br>
+        primera vez que deseas <br>
+        realizar un pedido con <br>
+        nosotros porfavor envíanos <br>
+        tu ubicación actual para <br>
+        asi cotizarte el delivery. <br>
+        Muchas gracias <br>
+        😊🧡
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+</div>
+En la conversación superior, el WhatsApp de Don Maki envió una respuesta automática, pero no se activa en todos los casos.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-carta de salón
-carta de eventos 
-opción no disponible, no vigente
-opción disponible
-promociones
-fotos de la carta
-ubicación
 
 ## Cotización del delivery
+
+### Cobertura Antes 6pm
+### Cobertura Después 6pm
+
+
+
+
+
+
 
 Entre 0 km y 2 km el delivery es 5 soles
 Entre 2 km y 2,5 km el delivery es 6 soles 
@@ -180,3 +295,5 @@ Entre 5 km y 6 km el delivery es 10 soles
 
 
 
+
+## 
