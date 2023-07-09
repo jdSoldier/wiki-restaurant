@@ -62,8 +62,7 @@ Responder consultas
         Hola buenas noches 😊
       </div>
       <div class="msj-texto">
-        <img src="https://raw.githubusercontent.com/jdSoldier/wikimagen/main/img/respuestacarta.png"
-          width= "200" height="200">
+        <img src="https://raw.githubusercontent.com/jdSoldier/wikimagen/main/img/respuestacarta.png" width= "160" height="160">
       </div>
 	  <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>    
     </div>
@@ -96,7 +95,7 @@ Responder consultas
     </div>
     <div class="cuerpo_msj">
       <div class="msj-texto">
-	        FALTA IMAGEN DE MAKIS 
+	        <img src="https://raw.githubusercontent.com/jdSoldier/wikimagen/main/img/consultamaki.png" width= "160" height="160"> 
       </div>
       <div class="msj-texto">
 		        Que maki es ese 
@@ -141,7 +140,7 @@ Responder consultas
     </div>
     <div class="cuerpo_msj">
       <div class="msj-texto">
-	     FALTA IMAGEN DE LA UBICACION DEL CLIENTE
+	     <img src="https://raw.githubusercontent.com/jdSoldier/wikimagen/main/img/respuestaubi.png" width= "160" height="160">
       </div>
       <div class="msj-texto">
 	     Para esta ubicación?
@@ -172,7 +171,14 @@ Responder consultas
 	     su pedido sale 107 soles
       </div>
       <div class="msj-texto">
-	     FALTA IMAGEN DE LAS FORMAS DE PAGO
+	     <img src="https://raw.githubusercontent.com/jdSoldier/wikimagen/main/img/respuestaformapago.png" width= "160" height="80"><br>
+	     Estás son nuestras formas de <br>
+	     pago! 🠞📱. Si cancelas con <br>
+	     efectivo recuerda decir con <br>
+	     cuanto cancelas para poder <br>
+	     mandar tu cambio!! 😊. Ahora <br>
+	     tambien aceptamos pagos con <br>
+	     tarjeta 💳 ❗
       </div>
       <div class="msj-texto">
 	     Cual será su forma de pago?
@@ -230,9 +236,6 @@ Responder consultas
   </div>
 </div>
 
-![carta|100](https://raw.githubusercontent.com/jdSoldier/wikimagen/main/img/respuestacarta.png) 
-
-
 ## ✋ Bienvenida y Envió de Carta
 
 
@@ -272,9 +275,130 @@ Responder consultas
 </div>
 En la conversación superior, el WhatsApp de Don Maki envió una respuesta automática, pero no se activa en todos los casos.
 
+<div class="contenedo_msj">
+ <div class="mensaje-der">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+        Buenas noches 😊
+      </div>
+      <div class="msj-texto">
+        <img src="https://raw.githubusercontent.com/jdSoldier/wikimagen/main/img/respuestacarta.png" width= "160" height="160">
+      </div>
+	  <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>    
+    </div>
+  </div>
+</div>
+
+Si no se activa la respuesta automática de bienvenida, se saluda al cliente y se le envía la carta.
+## 🍣 Consultas de la Carta
 
 
-## Cotización del delivery
+<div class="contenedo_msj">
+  <!-- mensaje izq -->
+  <div class="mensaje-izq">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+        Que promociones tienen
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje der -->
+  <div class="mensaje-der">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+        Tenemos Combos y Megas en la carta
+      </div>
+      <div class="msj-texto">
+        FALTA IMAGEN DE LA PROMO DEL DIA
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje izq -->
+  <div class="mensaje-izq">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+        Alguna promo de makis y alitas
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje der -->
+  <div class="mensaje-der">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+        Puede revisar el combo 1 y el combo 3 
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+</div>
+
+
+
+
+## 🛵 Consultas de Envió
+
+<div class="contenedo_msj">
+  <!-- mensaje izq -->
+  <div class="mensaje-izq">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+        Que promociones tienen
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje der -->
+  <div class="mensaje-der">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+        Tenemos Combos y Megas en la carta
+      </div>
+      <div class="msj-texto">
+        FALTA IMAGEN DE LA PROMO DEL DIA
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje izq -->
+  <div class="mensaje-izq">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+        Alguna promo de makis y alitas
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+  <!-- mensaje der -->
+  <div class="mensaje-der">
+    <div class="avatar">
+    </div>
+    <div class="cuerpo_msj">
+      <div class="msj-texto">
+        Puede revisar el combo 1 y el combo 3 
+      </div>
+      <span class="tiempo"><i class="icon-clock"></i> hace 15 min</span>
+    </div>
+  </div>
+</div>
 
 ### Cobertura Antes 6pm
 ### Cobertura Después 6pm
@@ -296,4 +420,4 @@ Entre 5 km y 6 km el delivery es 10 soles
 
 
 
-## 
+## Consultas del Pago
